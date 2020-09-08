@@ -13,6 +13,6 @@
 		"trial.discovery.spec.SpecTestDiscovery",
 		"trial.discovery.testclass.TestClassDiscovery"
 	],
-	"artifactsLocation": ".trial",
+	"artifactsLocation": ".ssc360s",
 	"maxThreads": 1
 }
